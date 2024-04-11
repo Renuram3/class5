@@ -1,4 +1,8 @@
 
 Hi repository
 second line
+<<<<<<< HEAD
 Third line
+=======
+fourth line
+>>>>>>> dev
